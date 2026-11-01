@@ -18,4 +18,8 @@ Instruction Set Architecture
 
 111 bitwise XOR
 
+
+
+
+
 P.s. Thank You, HDLbits
